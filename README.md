@@ -1,4 +1,5 @@
-# Git-Collaboration-Practical
-This project is created for learning Git and GitHub.
+## My First Pull Request
 
-Student Name: jalpa
+This is my first GitHub collaboration practical.
+
+I am learning Forking, Branching, and Pull Requests.
